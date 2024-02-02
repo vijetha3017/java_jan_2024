@@ -11,6 +11,7 @@ public class Ifstatement {
         if(j<10)
         {
             System.out.println(j+"  is less than 10");
+            System.out.println(j*j);
         }
     }
 }
